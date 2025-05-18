@@ -1,4 +1,4 @@
-# Hyeonsun Oh's 3D Reconstruction Portfolio
+# Hyeonsun Oh's Portfolio
 
 Welcome! 👋  
 I'm Hyeonsun Oh, a senior undergraduate student majoring in Data Science, with a focused interest in 3D reconstruction, medical image visualization, and AI-based perception for robotics.
